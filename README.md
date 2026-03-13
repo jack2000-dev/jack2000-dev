@@ -1,4 +1,19 @@
-## Hi there 👋
+hi, I'm Jack. I'm struggling, just like you
+
+### About me
+- Data analysis newbie
+- Crypto degen since 2021
+- Random finance/trading projects
+
+### Interests
+- AI/ML
+- Linux ricing
+- Data analysis
+- Finance and trading
+- Cybersecurity
+
+### Projects
+- [Data Analyst Journal](https://github.com/jack2000-dev/data-analyst-journal): Repository of my Data Analyst journal, tools, and projects
 
 <!--
 **jack2000-dev/jack2000-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
