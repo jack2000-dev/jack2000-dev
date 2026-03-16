@@ -13,7 +13,7 @@ hi, I'm Jack. I'm struggling, just like you
 - Cybersecurity
 
 ### Projects
-- [Data Analyst Journal](https://github.com/jack2000-dev/data-analyst-journal): Repository of my Data Analyst journal, tools, and projects
+- [Data Analyst Journal](https://github.com/jack2000-dev/data-analyst-journal) - My personal DA journal, tools, and projects
 
 <!--
 **jack2000-dev/jack2000-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
