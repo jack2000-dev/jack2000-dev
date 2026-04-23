@@ -3,14 +3,14 @@ hi, I'm Jack. I'm struggling, just like you
 ### About me
 - Data analysis newbie
 - Crypto degen since 2021
-- Random finance/trading projects
+- Random projects from my interest
 
 ### Interests
-- AI/ML
-- Linux ricing
-- Data analysis
-- Finance and trading
+- Data Analysis/Data Engineering
+- AI/ML and AI orchestration
+- Finance and investing
 - Cybersecurity
+- Linux ricing
 
 ### Projects
 - [Data Analyst Journal](https://github.com/jack2000-dev/data-analyst-journal) - My personal DA journal, tools, and projects
