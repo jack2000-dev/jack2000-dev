@@ -6,8 +6,8 @@ hi, I'm Jack. I'm struggling, just like you
 - Random projects from my interest
 
 ### Interests
-- Data Analysis/Data Engineering
-- AI/ML and AI orchestration
+- AI/ML
+- Data Analysis / Data Engineering
 - Finance and investing
 - Cybersecurity
 - Linux ricing
@@ -16,6 +16,7 @@ hi, I'm Jack. I'm struggling, just like you
 - [Data Analyst Journal](https://github.com/jack2000-dev/data-analyst-journal) - My personal DA journal, tools, and projects
 - [DAF](https://github.com/jack2000-dev/DAF) - Data Analysis Framework
 - [DAB](https://github.com/jack2000-dev/DAB) - Data Analysis Bible
+- [AI2000-docs](https://github.com/jack2000-dev/AI2000-docs) Personal AI knowledgebase
 
 <!--
 **jack2000-dev/jack2000-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
