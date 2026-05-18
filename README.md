@@ -1,7 +1,7 @@
-hi, I'm Jack. I'm struggling, just like you
+hi, I'm Jack. I'm struggling, just like you.
 
 ### About me
-- Data analysis newbie
+- Entering AI/Data field
 - Crypto degen since 2021
 - Random projects from my interest
 
@@ -17,18 +17,3 @@ hi, I'm Jack. I'm struggling, just like you
 - [DAF](https://github.com/jack2000-dev/DAF) - Data Analysis Framework
 - [DAB](https://github.com/jack2000-dev/DAB) - Data Analysis Bible
 - [AI2000-docs](https://github.com/jack2000-dev/AI2000-docs) Personal AI knowledgebase
-
-<!--
-**jack2000-dev/jack2000-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
